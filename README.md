@@ -1,15 +1,13 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Renata Amorim!
 
-• Diving deeper into **programming** with a focus on **Front-end development**.  
+• Diving deeper into **programming** with a focus on **Back-end development**.  
 • Studying and practicing daily to build more complete and professional projects. 
 
  ## 📘 I'm currently learning
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
 </div>
 
 
