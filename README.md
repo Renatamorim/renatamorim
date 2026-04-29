@@ -1,28 +1,36 @@
-# 👋 Hello! Welcome to my GitHub profile.
+# 👋 Hello, welcome to my GitHub!
 
-## My name is Renata Amorim!
+## 👩‍💻 Renata Amorim
 
-- Focused on web development.
-- Currently building projects and turning ideas into real applications.
-- Always improving through practice and consistency.
+Software Engineering Student | Front-End Developer (in progress)
 
-## 🚀 What I'm working on
+---
 
-- Creating personal and course-based projects.
-- Improving structure, layout and responsive design.
-- Strengthening front-end fundamentals.
+## About Me
 
-## 🛠️ Main Technologies
+*  Studying Software Engineering
+*  Currently focused on Front-End Development
+*  Learning and improving skills in HTML & CSS
+*  Goal: Build clean, responsive and user-friendly interfaces
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-</div>
+---
 
-## 📫 Reach me
+## Technologies
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renataamorim)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/renataamorinn)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+</p>
 
-✨ Thanks for visiting my profile!
 
+---
+
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/renataamorim)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/renataamorinn)
+
+---
+
+✨ *Always learning, building and evolving.*
