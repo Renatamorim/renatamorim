@@ -1,6 +1,6 @@
 # 👋 Hello, welcome to my GitHub!
 
-## 👩‍💻 Renata Amorim
+## Renata Amorim
 
 Software Engineering Student | Front-End Developer (in progress)
 
