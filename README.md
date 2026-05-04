@@ -6,14 +6,6 @@ Software Engineering Student | Front-End Developer (in progress)
 
 ---
 
-## About Me
-
-*  Studying Software Engineering
-*  Currently focused on Front-End Development
-*  Learning and improving skills in HTML & CSS
-*  Goal: Build clean, responsive and user-friendly interfaces
-
----
 
 ## Technologies
 
