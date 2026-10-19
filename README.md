@@ -2,7 +2,7 @@
 
 ## Renata Amorim
 
-Software Engineering Student | Front-End Developer (in progress)
+Front-End Developer (in progress)
 
 ---
 
